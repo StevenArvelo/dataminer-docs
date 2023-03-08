@@ -63,3 +63,9 @@ This page contains an overview of the CCAP Core parameters available in the I-DO
 - **Market Name**
 
 - **Hub Name**
+
+- **Uptime**
+
+- **Cpu Utilization**
+
+- **Memory Utilization**
